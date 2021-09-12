@@ -1,3 +1,5 @@
-![wdsd](https://user-images.githubusercontent.com/88788709/132983987-50e7c792-dea2-4860-be13-44b65077d510.png)
-![update](https://user-images.githubusercontent.com/88788709/132983997-0ffa33c5-24e7-41e7-b4a8-ecb67f5791c3.png)
+
+![image](https://user-images.githubusercontent.com/88788709/132984024-5c18ab39-165b-4f6c-b356-4f62ed36fc12.png)
+![image](https://user-images.githubusercontent.com/88788709/132984032-c19c6811-4136-49e1-adfe-340146ec5f24.png)
+
 # Discord-Nuker-
